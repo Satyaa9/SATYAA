@@ -24,6 +24,7 @@
     display: flex;
     height: 100vh;
     width: 100vw;
+    /* background-color: red; */
   }
 
   .hero-left {
@@ -107,7 +108,7 @@
    background-size: cover;
     background-size: contain;
     /* margin-right: -29.75rem; */
-    margin-left: 22rem;
+    margin-left: 22.7rem;
     
 
   }
@@ -117,14 +118,15 @@
     height: 100vh;
     width: 100vw;
     display: flex;
-    
+    /* background-color: red; */
     padding-top: 6.25rem;
     flex-direction: column;
     background-image: url(./Image.png);
+    background-color: #2F1893;
     background-repeat: no-repeat;
     background-size: cover;
     background-size: cover;
-    padding-top: 6.25rem;
+    /* padding-top: 6.25rem; */
   
     
     
@@ -159,7 +161,7 @@
   }
 
   .content1{
-    border: 2px solid black;
+    border: 2px solid #FFFFFF;
     height: 28.75rem;
     width: 23.125rem;
    margin-top: -18.75rem;
@@ -178,10 +180,11 @@
     line-height: 1.625rem;
     word-spacing: 0.625rem;
     letter-spacing: 0px;
+
     
   }
   .content2{
-    border: 2px solid black;
+    border: 2px solid #FFFFFF;
     height: 28.75rem;
     width: 23.125rem;
    margin-top: -18.75rem;
@@ -203,7 +206,7 @@
     
   }
   .content3{
-    border: 2px solid black;
+    border: 2px solid #FFFFFF;
     height: 28.75rem;
     width: 23.125rem;
    margin-top: -18.75rem;
